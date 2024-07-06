@@ -12,10 +12,11 @@ export default function App({ Component, pageProps }: AppProps) {
         <Provider store={store}>
             <Suspense>
                 <Head>
-                    <title>Plurk – Tailwind CSS Multipurpose Landing Templates</title>
+                    <title>Tetra Technology</title>
                     <meta charSet="UTF-8" />
                     <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
                     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+                    <meta name='descriptiom' content='Ofrecemos soluciones para ti y tu empresa'/>
                 </Head>
                 <DefaultLayout>
                     <Component {...pageProps} />

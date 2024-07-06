@@ -27,10 +27,10 @@ const Index = (props: any) => {
                                 </h2>
                                 {/*<p className="my-8 text-lg lg:w-[90%] ">
                                     In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate.
-                                </p>*/}
+                                </p>
                                 <Link href="/about-us" className="btn mx-auto mt-2 block w-fit bg-white lg:mx-0 lg:rtl:ml-auto">
                                     Leer mas
-                                </Link>
+                                </Link>*/}
                             </div>
                             <div
                                 className="bottom-0 mx-auto mt-5 mb-2 w-auto ltr:right-0 rtl:left-0 md:w-[540px] lg:absolute lg:mb-0 lg:mt-0 xl:w-[650px]"
