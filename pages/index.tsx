@@ -81,10 +81,10 @@ const Index = (props: any) => {
                                     href="/services-detail"
                                     className="my-8 inline-block text-[22px] font-extrabold text-black dark:text-white dark:group-hover:text-black"
                                 >
-                                    Diseño UI/UX
+                                    Consultoria Odoo
                                 </Link>
                                 <p className="mb-10 text-lg font-semibold transition line-clamp-3 dark:group-hover:text-black">
-                                Brindamos servicios con los mejores diseños que nuestro equipo de diseñadores para su negocio.
+                                    Brindamos consultoria e implementación del ERP Odoo, para optimizar sus operaciones.
                                 </p>
                                 <Link
                                     href="/services-detail"

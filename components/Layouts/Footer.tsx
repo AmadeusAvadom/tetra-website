@@ -183,12 +183,12 @@ const Footer = () => {
                                     Tetra Technologies
                                 </Link>
                             </div>
-                            {/*<div>
-                                Need help? Visit the{' '}
+                            <div>
+                                Necesitas ayuda? {' '}
                                 <Link href="/contact-us" className="text-secondary transition hover:text-primary">
-                                    Contact Us
+                                    Contáctanos
                                 </Link>
-                            </div>*/}
+                            </div>
                         </div>
                     </div>
                 </div>
